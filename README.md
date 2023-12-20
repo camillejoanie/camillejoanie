@@ -28,8 +28,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillejoanie&show_icons=true&theme=dark&locale=en&layout=compact" alt="camillejoanie" align=center/></p>
 
-##
-
 <div style="display: flex; align-items: center;">
     <img src="images/heart.gif" alt="coding chicken" width="45px" style="margin-right: 10px;">
     <h2>Connect with me!</h2>
